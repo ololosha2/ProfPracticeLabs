@@ -45,6 +45,7 @@ class Calculator
             if($token < 0)
             {
                 array_push($negatives, $token);
+                continue;
             }
             //$res += $token;
             $res += ($token > 1000) ? 0 : $token;
