@@ -1,0 +1,9 @@
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\StringCalculator.Tests.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\StringCalculator.Tests.pdb
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\StringCalculator.Library.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\StringCalculator.Library.pdb
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Tests\obj\Debug\StringCalculator.Tests.pdb

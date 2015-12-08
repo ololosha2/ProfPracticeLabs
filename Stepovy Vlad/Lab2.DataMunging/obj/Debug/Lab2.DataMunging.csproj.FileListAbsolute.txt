@@ -1,0 +1,6 @@
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\bin\Debug\Lab2.DataMunging.exe.config
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\bin\Debug\Lab2.DataMunging.exe
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\bin\Debug\Lab2.DataMunging.pdb
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\obj\Debug\Lab2.DataMunging.exe
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\obj\Debug\Lab2.DataMunging.pdb
+C:\University\Software Engineering Practice\SEPractice\Lab2.DataMunging\obj\Debug\Lab2.DataMunging.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Library\bin\Debug\StringCalculator.Library.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Library\bin\Debug\StringCalculator.Library.pdb
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Library\obj\Debug\StringCalculator.Library.csprojResolveAssemblyReference.cache
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Library\obj\Debug\StringCalculator.Library.dll
+C:\University\Software Engineering Practice\SEPractice\StringCalculator.Library\obj\Debug\StringCalculator.Library.pdb
