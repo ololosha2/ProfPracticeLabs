@@ -1,0 +1,6 @@
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\bin\Debug\SEP_lab1_UnitTests.exe.config
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\bin\Debug\SEP_lab1_UnitTests.exe
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\bin\Debug\SEP_lab1_UnitTests.pdb
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\obj\Debug\SEP_lab1_UnitTests.csprojResolveAssemblyReference.cache
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\obj\Debug\SEP_lab1_UnitTests.exe
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\SEP_lab1_UnitTests\obj\Debug\SEP_lab1_UnitTests.pdb

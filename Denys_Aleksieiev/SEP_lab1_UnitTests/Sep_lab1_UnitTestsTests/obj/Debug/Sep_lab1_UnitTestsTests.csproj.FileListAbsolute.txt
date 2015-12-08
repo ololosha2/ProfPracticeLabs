@@ -1,0 +1,9 @@
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\Sep_lab1_UnitTestsTests.dll
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\Sep_lab1_UnitTestsTests.pdb
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\SEP_lab1_UnitTests.exe
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\SEP_lab1_UnitTests.pdb
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\obj\Debug\Sep_lab1_UnitTestsTests.csprojResolveAssemblyReference.cache
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\obj\Debug\Sep_lab1_UnitTestsTests.dll
+c:\users\denys\documents\visual studio 2015\Projects\SEP_lab1_UnitTests\Sep_lab1_UnitTestsTests\obj\Debug\Sep_lab1_UnitTestsTests.pdb
