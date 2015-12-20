@@ -61,9 +61,9 @@ return arr;
         }
     }
 
-    public void outSmallestSpread(String filepath) throws IOException
+    public String outSmallestSpread(String filepath) throws IOException
     {
-
+        line = new ArrayList<>();
         this.readForecast(filepath);
         int i=100;
         String day = null;
@@ -79,11 +79,12 @@ return arr;
         else{
             System.out.println("Team with the smallest spread:" + day);
         }
+        return day;
 
     }
 
     public static void main(String[] args) throws IOException{
         main M = new main();
-        M.outSmallestSpread("D:\\Downloads\\football.dat");
+        M.outSmallestSpread("D:\\Downloads\\weather.dat");
     }
 }
