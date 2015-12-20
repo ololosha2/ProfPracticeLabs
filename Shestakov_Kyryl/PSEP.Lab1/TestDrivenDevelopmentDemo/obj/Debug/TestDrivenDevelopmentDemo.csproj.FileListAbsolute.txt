@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\bin\Debug\TestDrivenDevelopmentDemo.dll
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\bin\Debug\TestDrivenDevelopmentDemo.pdb
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\bin\Debug\StringCalculatorLibrary.dll
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\bin\Debug\StringCalculatorLibrary.pdb
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\obj\Debug\TestDrivenDevelopmentDemo.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\obj\Debug\TestDrivenDevelopmentDemo.dll
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\TestDrivenDevelopmentDemo\obj\Debug\TestDrivenDevelopmentDemo.pdb
