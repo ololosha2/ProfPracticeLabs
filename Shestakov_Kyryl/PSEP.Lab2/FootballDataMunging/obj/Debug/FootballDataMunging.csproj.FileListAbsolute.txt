@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab2\FootballDataMunging\bin\Debug\FootballDataMunging.exe.config
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab2\FootballDataMunging\bin\Debug\FootballDataMunging.exe
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab2\FootballDataMunging\bin\Debug\FootballDataMunging.pdb
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab2\FootballDataMunging\obj\Debug\FootballDataMunging.exe
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab2\FootballDataMunging\obj\Debug\FootballDataMunging.pdb
