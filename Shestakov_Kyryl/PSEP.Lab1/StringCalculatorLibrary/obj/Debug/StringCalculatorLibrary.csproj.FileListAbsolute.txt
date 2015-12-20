@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\StringCalculatorLibrary\bin\Debug\StringCalculatorLibrary.dll
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\StringCalculatorLibrary\bin\Debug\StringCalculatorLibrary.pdb
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\StringCalculatorLibrary\obj\Debug\StringCalculatorLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\StringCalculatorLibrary\obj\Debug\StringCalculatorLibrary.dll
+D:\Documents\Visual Studio 2015\Projects\Educational Labs\PSEP.Lab1\StringCalculatorLibrary\obj\Debug\StringCalculatorLibrary.pdb
