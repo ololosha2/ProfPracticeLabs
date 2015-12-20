@@ -1,87 +1,38 @@
 
 public class Program {
 
-    boolean FLAG = false;
-    int k=0,res = 0;
-    StringBuffer exc = new StringBuffer();
-    String[] num = new String[1000];
-    StringBuffer number = null;
-    StringBuffer result = new StringBuffer("");
-    char prev = ' ';
+    int res = 0;
+    StringBuffer exc;
+    String[] num ;
 
 
-    public void charProc(char ch)
+
+    public int add(String numbers)
     {
 
-        if (Character.isLetter(ch)|ch=='-') {
-            if (number != null) {
-                if(FLAG == false) {
-                    num[k] = number.toString();
-                    k++;
-                }
-                else {
-                    exc.append(number.toString());
-                }
-                number = null;
-            }
-        } else {
-            if (number == null){
-                if(prev=='-') {
-                    FLAG = true;
-                    number = new StringBuffer(Character.toString(prev));
-                    number.append(Character.getNumericValue(ch));
-                }
-                else{
-                    FLAG = false;
-                    number = new StringBuffer(Character.toString(ch));
-                }
+        res = 0;
+        exc = new StringBuffer();
+        num = new String[1000];
+        numbers = numbers.replaceAll("[^-?\\d]", " ").trim().replace("  "," ");
 
-            }
-            else {
-                number.append(Character.getNumericValue(ch));
-            }
-        }
+        num = numbers.split(" ");
 
-        prev = ch;
-
-    }
-
-    public void add(String numbers,char del)
-    {
-        char n[]= numbers.toCharArray();
-        for(int i =0;i<n.length;i++) {
-            charProc(n[i]);
-        }
-            if(number !=null ) {
-                if (FLAG == false) {
-                    num[k] = number.toString();
-                } else {
-                    exc.append(number.toString());
-                }
-            }
-        for(String o : num) {
-            if (o != null) {
-                if ( o.charAt(0) != del) {
-                    res += Integer.parseInt(o);
-                } else {
-                    if(res>0)
-                    {
-                        result.append(res);
-                        result.append(del);
-                        res=0;
-                    }
-                }
-            }
-        }
-        result.append(res);
+        for(String s: num)
+        if(!s.equals(""))
+        if(Integer.parseInt(s)>0)
+         res+=Integer.parseInt(s);
+        else
+        exc.append(s);
         System.out.println("Exception : " + exc.toString());
-        System.out.println(result.toString());
+        System.out.println(res);
+
+        return res;
     }
 
     public static void main(String[] args) {
         Program P = new Program();
 
-       P.add("abs123nab;am1m-33n-66a2", ';');
-
+     // P.add("ab-6s123nab;am1m-33n-66a2", ';');
+      P.add("swk-5and11ajw22;ywqo6");
     }
 }

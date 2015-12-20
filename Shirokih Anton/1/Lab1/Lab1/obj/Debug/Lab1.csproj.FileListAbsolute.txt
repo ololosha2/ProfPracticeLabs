@@ -1,0 +1,6 @@
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache

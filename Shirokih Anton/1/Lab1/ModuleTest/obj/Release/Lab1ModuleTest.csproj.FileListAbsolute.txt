@@ -1,0 +1,7 @@
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\bin\Release\ModuleTest.dll
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\bin\Release\ModuleTest.pdb
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\bin\Release\Lab1.exe
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\bin\Release\Lab1.pdb
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\obj\Release\Lab1ModuleTest.csprojResolveAssemblyReference.cache
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\obj\Release\ModuleTest.dll
+D:\Уроки\3 курс\Проф практика\Laboratories\1\Lab1\ModuleTest\obj\Release\ModuleTest.pdb
